@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PFAppka</string>
+    <string name="title_home">Cvičenia</string>
+    <string name="title_about">O Mne</string>
+    <string name="title_event">Informácie o Cvičení</string>
+    <string name="button_save">Uložiť</string>
+    <string name="username">Meno:</string>
+    <string name="weight">Váha:</string>
+    <string name="height">Výška:</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="bmi">Vaše BMI:</string>
+    <string name="add">Pridať</string>
+    <string name="random">Random</string>
+    <string name="empty"></string>
+    <string name="eventTitle1">Popis:</string>
+    <string name="eventTitle2">Typy cvičení:</string>
+    <string name="addEvent">Pridať Pripomienku</string>
+
+</resources>
