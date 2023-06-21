@@ -93,6 +93,10 @@ class AboutFragment : Fragment() {
 
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
+	nameValue = binding.editTextAbout.text.toString()
+        weightValue = binding.editTextAbout2.text.toString()
+        heightValue = binding.editTextAbout3.text.toString()
+        bmiValue = binding.textView2.text.toString()
         outState.putString(BUNDLE_KEY1, nameValue)
         outState.putString(BUNDLE_KEY2, weightValue)
         outState.putString(BUNDLE_KEY3, heightValue)
